@@ -51,10 +51,10 @@ It is **not** a consumer news application and does not replace editorial platfor
 
 ## Technology Stack
 
-Frontend: React
-Backend: Node.js, Express.js
-Database: MongoDB
-Deployment: Cloud-based infrastructure
+- Frontend: React
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Deployment: Cloud-based infrastructure
 
 ---
 
