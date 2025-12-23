@@ -3,7 +3,7 @@
 
 **NewsFlash** is a secure team collaboration web application delivering daily global, local, and market insights to support informed decision-making across organizations.
 
-Built for forward-thinking teams, NewsFlash centralizes curated intelligence into a single, controlled environment—helping leadership and teams stay aligned, informed, and prepared in fast-changing environments.
+Built for forward-thinking teams, NewsFlash centralizes curated intelligence into a single, controlled environment, helping leadership and teams stay aligned, informed, and prepared in fast-changing environments.
 
 ---
 
